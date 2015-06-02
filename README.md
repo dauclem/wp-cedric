@@ -1,0 +1,2 @@
+# wp-cedric
+Blog perso
